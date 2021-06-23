@@ -5,9 +5,11 @@
 * C/C++
 * Python :snake:
 * FrontEnd(HTML/CSS/JavaScript)
+## Tools, Frameworks, Libraries
+* Bootstrap
+* WordPress
 ## Interests
 * Competitive coding
-* App development
 * Web development
 * Embedded programming 
 * Surfing Python modules
