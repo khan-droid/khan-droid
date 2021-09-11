@@ -1,5 +1,5 @@
 # Hi, I'm Khalid :sunglasses:
- Currently I'm pursuing Bachelor's degree in "Electrical and Electronics Engineering " in SASTRA University :school:.
+ Currently I'm pursuing Bachelor's degree in "Electronics and Communication Engineering " in SASTRA University :school:.
  I love coding, which I learnt mostly from [Youtube](https://youtube.com/) and other internet resources.
 ## Programming languages
 * C/C++
