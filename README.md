@@ -2,14 +2,19 @@
  Currently I'm pursuing Bachelor's degree in "Electronics and Communication Engineering " in SASTRA University :school:.
  I love coding, which I learnt mostly from [Youtube](https://youtube.com/) and other internet resources.
 ## Programming languages
+* Java
 * C/C++
 * Python :snake:
-* FrontEnd(HTML/CSS/JavaScript)
-* BackEnd(PHP/MySQL/SQL)
+* JavaScript
 ## Tools, Frameworks, Libraries
+* Angular
 * React.JS
-* Bootstrap
-* WordPress
+* Node.JS
+* Express.JS
+* Django
+* Maven
+* Dropwizard
+* Jenkins
 ## Interests
 * Competitive coding
 * Web development
